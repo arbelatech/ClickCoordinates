@@ -50,7 +50,8 @@ This repository contains a Power Apps Component Framework (PCF) component that a
 3. Click anywhere on the components space to capture coordinates of the mouse click.
 4. You could access the values by setting up labels and set their Text attribute to PoCClickCoordinates1.XAxis and PoCClickCoordinates1.YAxis
 
-![XY Axis Coordinate Assist - Power Apps - Argano - Microsoft_ Edge 2023-06-08 20-55-50](https://github.com/arbelatech/ClickCoordinates/assets/45325566/eb004382-6b87-4519-a3b9-1e5e8e2b1965)
+![XY Axis Coordinate Assist - Power Apps - Argano - Microsoft_ Edge 2023-06-08 20-55-50](https://github.com/arbelatech/ClickCoordinates/assets/45325566/baa17f53-a833-4868-8f38-0f1997570863)
+
 
 ---
 
