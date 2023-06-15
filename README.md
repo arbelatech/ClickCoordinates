@@ -1,7 +1,7 @@
 # Click Coordinates
 
 ### Getting Started
-This repository contains a Power Apps Component Framework (PCF) component that allows us to capture user's coordintes of a location wherever user click or touches on an app screen and store them in its attributes 'XAxis' and 'YAxis'. This can be useful in scenarios where you need to track user interactions or gather data related to mouse clicks within your Power Apps.
+This repository contains a Power Apps Component Framework (PCF) component that allows us to capture coordintes of a location where user click or touches on an app screen and store them in its attributes 'XAxis' and 'YAxis'. This can be useful in scenarios where you need to track user interactions or gather data related to mouse clicks within your Power Apps.
 
 ## 1. Deploying Component in Power Apps
 ### 1.1 Download and Build
