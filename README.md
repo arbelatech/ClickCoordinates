@@ -1,7 +1,8 @@
+![image](https://github.com/arbelatech/ClickCoordinates/assets/45325566/7e9c5699-c7e2-4857-93d9-8d5cb8e4d3f1)
+
+
+
 # Click Coordinates
-
-![image](https://github.com/arbelatech/ClickCoordinates/assets/45325566/af7697b5-6f64-440e-9350-1f876e29597c)
-
 
 ### Getting Started
 This repository contains a Power Apps Component Framework (PCF) component that allows us to capture coordintes of a location where user click or touches on an app screen and store them in its attributes 'XAxis' and 'YAxis'. This can be useful in scenarios where you need to track user interactions or gather data related to mouse clicks within your Power Apps.
